@@ -27,4 +27,4 @@ Execute o Selenium: npx mocha --no-timeouts "test/cadastroNegativo.js" (Para o t
 
 ### Status
 - **Data do Teste:** 01/08/2024
-- **Testador:** Thierry Castro
+- **Testador:** Thiemy Castro
